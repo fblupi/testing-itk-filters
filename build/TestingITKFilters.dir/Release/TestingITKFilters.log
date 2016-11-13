@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/fboli/Documents/GitHub/testing-itk-filters/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\fboli\Documents\GitHub\testing-itk-filters\build\CMakeFiles\generate.stamp is up-to-date.
+  TestingITKFilters.cxx
+  TestingITKFilters.vcxproj -> C:\Users\fboli\Documents\GitHub\testing-itk-filters\build\Release\TestingITKFilters.exe
